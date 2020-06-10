@@ -1,9 +1,15 @@
-.mt-n-4{
+.mt-n-4 {
     margin-top: -150px !important;
 }
-.bg-gray{
+
+.bg-gray {
     background-color: #333333;
 }
-.bg-blue{
+
+.bg-blue {
     background-color: #00c8c8;
+}
+
+.mt-neg-2 {
+    margin-top: -100px;
 }
